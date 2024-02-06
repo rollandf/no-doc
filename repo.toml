@@ -5,7 +5,11 @@ logging = "warn"
 [repo_docs]
 enabled = true
 docs_root = "docs"
-project = "repo_minimal"
-name = "Minimal repo_man Based Repository"
+project = "nvidia_network_operator"
+name = "NVIDIA Network Operator"
 version = "0.1.0"
-copyright_start = 2022
+copyright_start = 2024
+social_media_set = []
+social_media = []
+favicon = "${root}/assets/favicon.ico"
+logo = "${root}/assets/nvidia-logo-white.png"
