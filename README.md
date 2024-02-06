@@ -1,5 +1,10 @@
 # NVIDIA Network Operator Documentation
 
+Note:
+For official documentation, go to: https://docs.nvidia.com/networking/display/kubernetes2310/Network+Operator
+
+Latest documentation generated from this repo: https://rollandf.github.io/no-doc/
+
 To generate the docs run:
 
 ```bash
@@ -7,3 +12,4 @@ To generate the docs run:
 ```
 
 Generated files will be under `_build/docs/nvidia_network_operator/latest/`
+
