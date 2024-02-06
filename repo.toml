@@ -1,0 +1,11 @@
+[repo]
+logging = "warn"
+
+
+[repo_docs]
+enabled = true
+docs_root = "docs"
+project = "repo_minimal"
+name = "Minimal repo_man Based Repository"
+version = "0.1.0"
+copyright_start = 2022
